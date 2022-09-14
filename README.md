@@ -1,1 +1,2 @@
-# c23-pirates-stage-2
+# PRO-C23-SA-boilerplate
+boilerplate code for C23
